@@ -1,0 +1,14 @@
+name: WishLifesteal
+version: '1.0'
+main: us.dingl.wishlifesteal.WishLifesteal
+api-version: '1.21'
+
+commands:
+  givewish:
+    description: Give a wish to a player
+    usage: /givewish
+    permission: wishlifesteal.give
+  givewishshard:
+    description: Give a wish shard to a player
+    usage: /givewishshard
+    permission: wishlifesteal.give

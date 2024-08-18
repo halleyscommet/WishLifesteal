@@ -1,0 +1,8 @@
+us\dingl\wishlifesteal\WishGUIManager.class
+us\dingl\wishlifesteal\WishLifesteal.class
+us\dingl\wishlifesteal\Commands\GiveWish.class
+us\dingl\wishlifesteal\Listeners\WishGUIListener.class
+us\dingl\wishlifesteal\Listeners\DeathListener.class
+us\dingl\wishlifesteal\Commands\GiveWishShard.class
+us\dingl\wishlifesteal\Listeners\RightClickWishListener.class
+us\dingl\wishlifesteal\CreateRecipes.class
